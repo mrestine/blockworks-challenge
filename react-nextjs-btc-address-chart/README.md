@@ -12,6 +12,7 @@ Draw 5 lines in different colors displaying balances
 Display a legend that labels each line color.
 
 See "Example Implementation" to get an idea of how the chart should look like.
+An ideal implementation would include all features you can see in the example.
 
 ### Implementation Notes:
 
