@@ -21,7 +21,7 @@ An ideal implementation would include all features you can see in the example.
 (`pages/api/btc-addresses`)
   * Format the CSV and return JSON timeseries for your charting engine
   * Call the API to load the data inside of your react component
-* You can style the chart however you like
+* Make the chart look nice and clean (either by utilizing the example as a design template or give it your personal UI touch)
 
 ## Bonus Points
 
